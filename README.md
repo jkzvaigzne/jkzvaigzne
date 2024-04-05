@@ -24,3 +24,13 @@ As a .NET developer with a strong foundation in C# and database management, I am
 <p align="left"> <a href="https://www.github.com/jkzvaigzne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jkzvaigzne" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
+###
+<h2 align="left">Latest Projects</h2>
+
+### Flight Planner
+- Crafted utilizing C# within the ASP.NET Core and EF Core frameworks for seamless development.
+- Incorporated SQL as the foundational database system for robust backend functionality.
+
+### Scooter Rental System
+- Developed following Test-Driven Development (TDD) principles to ensure reliability and efficiency.
+- Streamlined scooter maintenance, rental procedures, and revenue tracking for enhanced operational effectiveness.
