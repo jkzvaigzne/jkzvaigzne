@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jēkabs Andrejs Zvaigzne
 ===============================================================================================================================================
 
-Passionate Software Developer / Front End Developer
+Passionate Software Developer
 ---------------------------------------------------
 
 As a .NET developer with a strong foundation in C# and database management, I am passionate about deepening my expertise in server-side technologies. I am currently focused on mastering to enhance my capabilities in building robust, scalable, and efficient back-end systems. Dedicated to ensuring seamless integration between back-end systems and user-facing applications, I am committed to delivering secure and high-performance solutions. My enthusiasm for back-end development drives me to continuously learn and embrace challenges in creating impactful web applications.
 
 * 🌍  I'm based in Riga, Latvia
 * ✉️  You can contact me at [jekabswork@gmail.com](mailto:jekabswork@gmail.com)
-* 🧠  I'm learning Server-side technologies and front-end technologies.
+* 🧠  I'm learning server-side technologies and front-end technologies.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
