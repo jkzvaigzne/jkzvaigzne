@@ -23,6 +23,10 @@ As a .NET developer with a strong foundation in C# and database management, I am
 ###
 <h2 align="left">Latest Projects</h2>
 
+### Full-Blog
+- Full-Blog is built with ASP.NET MVC, .NET Core, EF Core, and ASP.NET Core Identity for secure and efficient blogging.
+- It utilizes modern frameworks for seamless development and scalability.
+
 ### Flight Planner
 - Crafted utilizing C# within the ASP.NET Core and EF Core frameworks for seamless development.
 - Incorporated SQL as the foundational database system for robust backend functionality.
