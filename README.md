@@ -1,6 +1,9 @@
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sV60JhlYL4IdWjcNvKTJRA.png" target="_blank" rel="noreferrer">
+===============================================================================================================================================
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jēkabs Andrejs Zvaigzne
 ===============================================================================================================================================
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sV60JhlYL4IdWjcNvKTJRA.png" target="_blank" rel="noreferrer">
 
 Passionate Software Developer
 ---------------------------------------------------
