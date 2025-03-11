@@ -86,9 +86,9 @@ As a .NET developer with a strong foundation in C# and database management, I am
          width="36" height="36" alt="PostgreSQL" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
-         width="36" height="36" alt="MySQL" />
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+         width="36" height="36" alt="SQL Server" />
   </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
