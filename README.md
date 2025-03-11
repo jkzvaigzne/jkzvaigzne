@@ -31,15 +31,10 @@ As a .NET developer with a strong foundation in C# and database management, I am
          width="36" height="36" alt="Git" />
   </a>
   
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" 
-   target="_blank" 
-   rel="noreferrer" 
-   style="background: #fff;">
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-         width="36" 
-         height="36" 
-         alt="SQL Server" />
-</a>
+         width="36" height="36" alt="SQL Server" style="background: #fff;"/>
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" 
