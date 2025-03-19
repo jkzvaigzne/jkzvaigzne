@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Passionate Software Developer
 ---------------------------------------------------
-![](https://komarev.com/ghpvc/?username=jkzvaigzne)
+<!-- ![](https://komarev.com/ghpvc/?username=jkzvaigzne) -->
 
 As a .NET developer with a strong foundation in C# and database management, I am passionate about deepening my expertise in server-side technologies. I am currently focused on mastering to enhance my capabilities in building robust, scalable, and efficient back-end systems. Dedicated to ensuring seamless integration between back-end systems and user-facing applications, I am committed to delivering secure and high-performance solutions. My enthusiasm for back-end development drives me to continuously learn and embrace challenges in creating impactful web applications.
 
