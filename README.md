@@ -8,7 +8,7 @@ As a .NET developer with a strong foundation in C# and database management, I am
 
 * 🌍  I'm based in Riga, Latvia
 * ✉️  You can contact me at [jekabswork@gmail.com](mailto:jekabswork@gmail.com)
-* 🧠  I'm learning server-side technologies and front-end technologies.
+* 🧠  I'm focusing in server-side technologies and front-end technologies.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
