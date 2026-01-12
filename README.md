@@ -119,11 +119,6 @@ As a .NET developer with a strong foundation in C# and database management, I am
 - Crafted utilizing C# within the ASP.NET Core and EF Core frameworks for seamless development.
 - Incorporated SQL as the foundational database system for robust backend functionality.
 
-### Scooter Rental System
-- Developed following Test-Driven Development (TDD) principles to ensure reliability and efficiency.
-- Streamlined scooter maintenance, rental procedures, and revenue tracking for enhanced operational effectiveness.
-
-
 ## Contact Information
 - **Email:** [jekabswork@gmail.com](mailto:jekabswork@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/jkzvaigzne/](https://www.linkedin.com/in/jkzvaigzne//)
