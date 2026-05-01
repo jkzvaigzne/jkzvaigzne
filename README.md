@@ -15,7 +15,7 @@ As a .NET developer with a strong foundation in C# and database management, I am
 ### Skills
 
 
-<p align="left">
+<p align="left" style="display:flex;">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" 
          width="36" height="36" alt="C#" />
